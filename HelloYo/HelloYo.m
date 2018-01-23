@@ -17,4 +17,8 @@
 {
     NSLog(@"hello  2");
 }
++ (void)hello3
+{
+    NSLog(@"hello  3");
+}
 @end
