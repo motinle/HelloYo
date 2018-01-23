@@ -10,4 +10,5 @@
 
 @interface HelloYo : NSObject
 + (void)hello;
++ (void)hello2;
 @end

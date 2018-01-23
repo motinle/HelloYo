@@ -11,6 +11,10 @@
 @implementation HelloYo
 + (void)hello
 {
+    NSLog(@"hello");
+}
++ (void)hello2
+{
     NSLog(@"hello  2");
 }
 @end
